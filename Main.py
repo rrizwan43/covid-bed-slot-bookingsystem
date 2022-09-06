@@ -1,4 +1,3 @@
-Main.py
 
 
 from flask import Flask, json,redirect,render_template,flash,request
